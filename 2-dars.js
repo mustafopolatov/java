@@ -19,11 +19,12 @@ console.log(12345);
 // prompt('Ismingizni kiriting'); 
 
 // alert('Xush kelibsiz');
-
 // confirm('Rostdana?');
-
-
-
-
 //DOM - Document Object Model
+
+
+
+
+
+
 
